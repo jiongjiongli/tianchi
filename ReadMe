@@ -1,0 +1,6 @@
+
+
+cd /home/epcc/proj/tianchi
+
+python /home/epcc/proj/tianchi/analyzer.py
+
